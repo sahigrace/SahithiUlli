@@ -10,7 +10,10 @@
 - React.js
 - Node.js
 - MySQL
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 🚀 Projects:
 ### KOA-CCTNET: Knee Osteoarthritis Grade Assessment
 - Deep Learning-based medical image analysis project
@@ -34,9 +37,5 @@
 
 📫 Contact Me:
 - Email: ullisahithi@gmail.com
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 
 ⭐ Open to Software Developer, Java Developer, and Full Stack Developer opportunities.
