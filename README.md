@@ -10,7 +10,7 @@
 - React.js
 - Node.js
 - MySQL
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
