@@ -105,6 +105,6 @@
 
 - 📧 Email: ullisahithi@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/sahithi-ulli-44097a2b6
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 🐙 GitHub: https://github.com/sahigrace
 
 ⭐ Thanks for visiting my profile!
